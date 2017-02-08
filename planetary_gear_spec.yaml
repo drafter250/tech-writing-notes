@@ -1,0 +1,32 @@
+Planetary Gear Assy :
+  parts :
+    sun-gear :
+      shape: "ring"
+      material: "forged steel"
+      configuration: "external teeth"
+      role: "driving"
+      pitch-diameter: 5.326
+      tooth-count: 24
+
+    planet-gear:
+      shape: "ring or solid"
+      material: "forged steel"
+      configuration: "external teeth"
+      role: "driven reducing"
+      pitch-diameter: 3.133
+      tooth-count: 18
+
+    bearings:
+      material: cold-rolled steel
+      type: journal
+
+    carrier:
+      diameter: 3.133/2 + 5.326/2
+
+    outer-ring-gear:
+      shape: "ring"
+      material: "forged steel"
+      configuration: "internal teeth"
+      role: "driving"
+      pitch-diameter: 5.326/2 + 3.133
+      tooth-count: 24
