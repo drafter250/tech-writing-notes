@@ -17,7 +17,7 @@ Within the scope of Project Management of software products, Scrum is a “frame
 
 The purpose of Scrum is to provide a project management process that can handle incomplete and or rapidly changing customer requirements. Scrum is one of a number of project management systems geared toward software and systems development that arose (Beck & others, 2001) due to backlash against the traditional “Water Fall” method. The "Water-Fall Method" placed heavy emphasis on knowing all customer requirements before starting a project and delivering a product to a fixed contract. See figure 1.
 
-![Figure 1](Waterfall.png Figure 1 (Royce) )
+![Figure 1](Waterfall.png) Figure 1 (Royce) )
 Figure 1 (Royce)
 
 In contrast Scrum's emphasis is on maintating close communication with the customer to handle changing requirements.
