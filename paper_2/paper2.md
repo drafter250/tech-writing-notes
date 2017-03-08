@@ -18,7 +18,7 @@ Within the scope of Project Management of software products Scrum is an iterativ
 The purpose of Scrum is to provide a project management process that can handle incomplete and or rapidly changing customer requirements. Scrum is one of a number of project management systems geared toward software and systems development that arose (Beck & others, 2001) due to backlash against the traditional “Water Fall” method. The "Water Fall" method placed heavy emphasis on knowing all customer requirements before starting a project and delivering a product to a fixed contract. See figure 1.
 
 ![Figure 1](Waterfall.png)
-Figure 1 Traditional Waterfall Method (Royce)[1]
+Figure 1 | Traditional Waterfall Method (Royce)[1]
 
 In contrast Scrum's emphasis is on maintaining close communication with the customer to handle changing requirements.
 
@@ -43,12 +43,25 @@ lorem ipsum
 
 ### Gather Requirements
 The Product Owner is the sole point of contact of the Scrum team with the customer. Thus the
-Product Owner takes responsibility for gathering product requirements from the customer for a requested
-product. The Product Owner works with the team to analyze the requirements and create a product
-Backlog which is a collection of features of the overall product to be worked on.
+Product Owner takes responsibility for gathering product requirements from the customer for a
+requested product. The Product Owner works with the team to analyze the requirements and create a
+product Backlog which is a collection of features of the overall product to be worked on.
 
 ### Sprint
-The
+The Sprint is supposed to be a 2 week to a month long time-boxed event. Each Sprint's Goal is to
+deliver a working subset of the final product to the customer. Sprint's continue in this iterative
+fashion until the team has reduced the Product Backlog items to zero and has reached it's definition
+of done.
+
+### Sprint Planning Meeting
+Within each Sprint the first step is to hold a Sprint Planning Meeting. The Planning Meeting
+
+### Daily Scrum
+lorem ipsum
+### Sprint Review
+lorem ipsum
+### The Sprint Retrospective
+lorem ipsum
 
 ```
 * List the major steps of the process in the order that they will be described.
@@ -103,3 +116,5 @@ Inc. Originally published by TRW.
 When Jeff Sutherland created the scrum process in 1993, he borrowed the term "scrum" from an analogy put forth in a 1986 study by Takeuchi and Nonaka, published in the Harvard Business Review. See more at: https://www.scrumalliance.org/why-scrum#sthash.GGacCoIa.dpuf*
 
 [4] Schwaber, Ken, and Jeff Sutherland. "The Scrum Guide™." Scrum Guide | Scrum Guides. Scrumguides.org, n.d. Web. 27 Feb. 2017.
+
+[5] The Scrum Framework. Digital image. Scrum.org. N.p., n.d. Web. 22 Feb. 2017. <https://s3.amazonaws.com/scrumorg-website-prod/drupal/inline-images/ScrumFramework_2000x1000.png>.
