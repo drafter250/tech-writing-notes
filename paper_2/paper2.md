@@ -17,6 +17,7 @@ Within the scope of Project Management of software products, Scrum is a “frame
 
 The purpose of Scrum is to provide a project management process that can handle incomplete and or rapidly changing customer requirements. Scrum is one of a number of project management systems geared toward software and systems development that arose (Beck & others, 2001) due to backlash against the traditional “Water Fall” method. The "Water-Fall Method" placed heavy emphasis on knowing all customer requirements before starting a project and delivering a product to a fixed contract. See figure 1.
 
+![Figure 1](Waterfall.png Figure 1 (Royce) )
 Figure 1 (Royce)
 
 In contrast Scrum's emphasis is on maintating close communication with the customer to handle changing requirements.
@@ -36,26 +37,27 @@ Detailed Requirements:
 Design & Analysis
 Implementation & Developer Testing
 Deployment
-```
-Scrum Project Process
-The Scrum Process is a continuous loop of processes which ends only after the product is deemed done. 
-Steps:
 
+
+Scrum Project Process
+The Scrum Process Starts with Team Formation, There is a Product Owner, a Scrum Manger and the Development Team. The Product Owner gathers intial customer requirements. Is a continuous loop of processes which ends only after the product is deemed done.
+
+```
+Steps:
 
     1) Product Owner – the Product Owner is the interface between the customer and the development team
     2) Scrum Manager
     3) Development Team
 2) Gather Initial Customer Requirements.
     1) The Product Owner interfaces with the customer requirements for delivering a finished product as well as priority of which functions of the product they would like to see first.
-3) The Sprint:
-4) Create Product Backlog.
+3)	The Sprint:
+4)	Create Product Backlog.
     1) The Product Backlog is the list of features to add to the product that will satisfy the customer’s requirements.
-5) The Sprint backlog
+5)	The Sprint backlog
     1) For each sprint the scrum team decides which Product Backlog Items to work on.
-6) Sprint Planning.
-7) The Sprint.
-8) Sprint Review.
-9) 
+6)	Sprint Planning.
+7)	The Sprint.
+8)	Sprint Review.
 9)	Deliver
 ```
 
