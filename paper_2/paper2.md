@@ -48,13 +48,16 @@ requested product. The Product Owner works with the team to analyze the requirem
 product Backlog which is a collection of features of the overall product to be worked on.
 
 ### Sprint
-The Sprint is supposed to be a 2 week to a month long time-boxed event. Each Sprint's Goal is to
+The Sprint is to be a 2 week to a month long time-boxed event. Each Sprint's Goal is to
 deliver a working subset of the final product to the customer. Sprint's continue in this iterative
 fashion until the team has reduced the Product Backlog items to zero and has reached it's definition
 of done.
 
 ### Sprint Planning Meeting
-Within each Sprint the first step is to hold a Sprint Planning Meeting. The Planning Meeting
+The Sprint Planning Meeting is where the team decides which product backlog items are going
+to be worked and how to turn them into finished features. It is time-boxed to a maximum of 3 hours
+in length. During the meeting two main questions are to be answered. The first is "What can be
+done this Sprint?"[4] and then The Purpose of this step is to
 
 ### Daily Scrum
 lorem ipsum
