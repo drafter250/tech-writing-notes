@@ -66,27 +66,11 @@ meeting everyone physically stands which is meant to encourage everyone to keep 
 are you working on today?" and "Are you having any issues?"[4].
 
 ### Sprint Review
-The Sprint Review is an event that occurs at the end of Sprint where the team demonstrates it's progress to the customer.
+The Sprint Review is an event that occurs at the end of Sprint where the team demonstrates it's progress to the customer and the customer provides feedback to the team to refine deliverables.
 ### The Sprint Retrospective
 lorem ipsum
 
-```
-* List the major steps of the process in the order that they will be described.
 
-Discussion
-* Step1
-* Define the step
-* Describe it’s purpose and function
-* Describe what happens during this step
-Conclusion
-* Summarize the function and steps
-```
-Detailed Requirements:
-Design & Analysis
-Implementation & Developer Testing
-Deployment
-
-```
 Steps:
 
     1) Product Owner – the Product Owner is the interface between the customer and the development
