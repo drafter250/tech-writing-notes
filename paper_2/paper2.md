@@ -10,7 +10,8 @@ By: DeAlessio, Bryce T. (Student)
 ## Introduction
 
 ### Technical definition
-Within the scope of Project Management of software products Scrum is an iterative and empirical “framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value” (Schwaber & Sutherland). This framework sets forth a set of roles for the people involved in a software development project, a series of events that occur during the process and the artifacts that flow through those events to produce a potentially deliverable portion of the overall project. It uses a number of concepts borrowed from “Lean Manufacturing Principles” <need reference (Toyota way)>.
+Within the scope of Project Management of software products Scrum is an iterative and empirical “framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value” (Schwaber & Sutherland). This framework sets forth a set of roles for the people involved in a software development project, a series of events that occur during the process and the artifacts that flow through those events to produce a potentially deliverable portion of the overall project. It uses a number of concepts borrowed from “Lean Manufacturing Principles” <need reference (Toyota way)>. The official "Scrum
+Guide" is available at http://www.scrumguides.org/scrum-guide.html. This Paper is an attempt to summarize the Scrum Process Framework presented in the official "Scrum Guide" into a more ordered process explained in lay terms.
 
 ### Purpose and function
 The purpose of Scrum is to provide a project management process that can handle incomplete and or rapidly changing customer requirements. Scrum is one of a number of project management systems geared toward software and systems development that arose (Beck & others, 2001) due to backlash against the traditional “Water Fall” method. The "Water Fall" method placed heavy emphasis on knowing all customer requirements before starting a project and delivering a product to a fixed contract. See figure 1.
@@ -59,12 +60,13 @@ is for the team to review their progress and raise any issues getting in their w
 meeting everyone physically stands which is meant to encourage everyone to keep their contributions short & direct. Each person on the team should answer three questions; "What did you do the day before?", "What are you working on today?" and "Are you having any issues?"[4].
 
 ### Sprint Review
-The Sprint Review is a meeting that occurs at the end of the Sprint where the Scrum team reviews it's progress with the customers and or stakeholders. The purpose of the meeting is to give the customer a chance to provide feedback to the Scrum team to refine or add new PBI's. The Sprint review can be up to three hours long however the time-frame should scale with the length of the Sprint. Only PBI's that the Scrum team considers complete and deliverable should be reviewed. During the meeting the Product Owner captures customer feedback for the Scum Team to Review at the next Sprint Planning Meeting.
+The Sprint Review is a meeting that occurs at the end of the Sprint where the Scrum team reviews it's progress with the customers and or stakeholders. The purpose of the meeting is to give the customer a chance to provide feedback to the Scrum team to refine or add new requirements to the project. The Sprint review can be up to three hours long however the time-frame should scale with the length of the Sprint. Only PBI's that the Scrum team considers complete and deliverable should be reviewed. The Scrum team Should then demonstrate the completed area's of the project. During the meeting the Product Owner captures customer feedback for the Scum team to review at the next Sprint Planning Meeting.
 
 ### Sprint Retrospective
-Meeting for team to inspect it’s Successes and Challenges during the last Sprint.
-Should be 3 hours or less depending on length of the Sprint.
-Team reviews successes first and what worked well
+The Sprint Retrospective is a meeting for the Scrum team to inspect it’s successes and challenges during the last Sprint. It's purpose is to allow a safe and open venue for the team to make improvements in how it operates. It is the Scrum Master's Job to ensure This meeting happens
+
+Again the meeting should be 3 hours or less depending on length of the Sprint.
+The Team reviews successes first and what worked well
 Team develops ways to Improve on challenges and a plan to implement them.
 
 ### Conclusion
@@ -108,3 +110,4 @@ When Jeff Sutherland created the scrum process in 1993, he borrowed the term "sc
 [4] Schwaber, Ken, and Jeff Sutherland. "The Scrum Guide™." Scrum Guide | Scrum Guides. Scrumguides.org, n.d. Web. 27 Feb. 2017. http://www.scrumguides.org/scrum-guide.html
 
 [5] The Scrum Framework. Digital image. Scrum.org. N.p., n.d. Web. 22 Feb. 2017. <https://s3.amazonaws.com/scrumorg-website-prod/drupal/inline-images/ScrumFramework_2000x1000.png>.
+<>.
