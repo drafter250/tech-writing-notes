@@ -4,12 +4,12 @@
 
 ### Objectives
 Highly motivated self-starter seeking an opportunity to join the Pratt & Whitney
-Methods Group to help create Technology that improves the daily work-life our
-Co-workers and customers.
+Methods Group to help create the Technology that improves the daily work-life our
+co-workers and customers.
 
 ### Strengths
-Self Learner, Special knowledge of existing Company Airfoil Software. Self taught
-Python Programmer with 2 projects already included in Airfoil 2.0 Project.
+Motivated self-starter & self-learner, Special knowledge of existing Company legacy airfoil Software. Self taught
+Python Programmer with two projects already included in Airfoil 2.0 Project.
 
 ### Education
 *B.S. In Progress - Mechanical Engineering Technologies with a minor in Computer Science.*
@@ -25,20 +25,36 @@ Oliver Wolcott Technical High School, Torrington, CT 06790
 
 #### Relevant Course Area's
 * Computational Method's For Engineers.
-* CAD Parametrics.
+* 3D Parametric CAD.
 * Technical Writing
 
-### Experience
+### Computing Skills
+#### Programming Languages(descending order of fluency):
+* Python, Matlab, HTML, Javascript, NXOpen, Visual Basic
+
+#### Version Control Systems(descending order of fluency):
+* Git, Github, SVN
+
+#### Operating Systems:
+* Microsoft Windows, Ubuntu & Red Hat Enterprise Linux
+
+#### CAD/Engineering Software(descending order of fluency):
+* Siemens NX CAD, Teamcenter, Gom3d, Geomagic, Autodesk Inventor, 3D Studio Max.
+
+#### Other Software:
+* MS Office, Camtasia Studio(screen capture), P&W Proprietary airfoil Software.
+
 
 05/06 – Present: *Mechanical Draftsman, Pratt & Whitney | 1 Aircraft Road, Middletown, CT 06457.*  
 Have held increasing responsibilities in Product Definition role from practitioner to Lead
 Design Draftsman. Expertise with compressor airfoil and related hardware definition, data
 creation and inspection data analysis.
-* Experience in multiple CAD systems (Siemens NX, Geomagic, Gom3d, Autodesk Inventor, AutoCAD, 3d Studio Max)
+* Experience in multiple CAD systems
 * Advanced Surface Modeling in NX
 * Advanced Parametric Modeling in NX
+* Familiarity with Model Based Definition
 * ASME Y14.5 GD&T Experience
-* Python Programing (data processing and NX Open)
+* Programing - Python & other Languages for data processing and NX Open.
 
 06/01 – 05/06: *Industrial/Mechanical Draftsman, Jensen Mechanical Equipment | New Hartford, CT*  
 Responsible for the design and routing of Industrial Chimney systems for bill of
